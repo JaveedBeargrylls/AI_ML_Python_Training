@@ -130,8 +130,3 @@ A set is an unordered collection of unique elements. Sets do not allow duplicate
 - **Functions**: Functions are reusable blocks of code that accept inputs and return outputs.
 - **Pandas**: The Pandas library is essential for data manipulation, with its key structures being DataFrames and Series.
 - **Dictionaries & Sets**: Dictionaries store key-value pairs, while sets store unique, unordered elements.
-
----
-
-This concludes the Day 2 session on Python. Make sure to practice these concepts by writing code and experimenting with examples. If you have any questions, feel free to ask! 
-
