@@ -1,6 +1,6 @@
 import pandas as pd
 
-data=pd.read_csv(r"C:\Training\AI_ML_Python_Training\Day02\insurance.csv")
+data=pd.read_csv(r"Day02\insurance.csv")
 
 print("unique->\n"+(data['region'].unique()))
 
@@ -131,7 +131,7 @@ print(data.head())
 
 #data Cleaning
 
-data1=pd.read_csv(r"C:\Training\AI_ML_Python_Training\Day03\insurance_v2.csv")
+data1=pd.read_csv(r"Day03\insurance_v2.csv")
 
 #combine the data
 

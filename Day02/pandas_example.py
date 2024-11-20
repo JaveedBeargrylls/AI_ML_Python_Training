@@ -2,7 +2,7 @@ import pandas as pd  # Import the pandas library for data manipulation
 
 # Read the CSV file into a DataFrame. The 'r' in front of the string makes it a raw string literal,
 # so backslashes in the path are treated literally.
-data = pd.read_csv(r"C:\Training\AI_ML_Python_Training\Day02\insurance.csv")
+data = pd.read_csv(r"Day02\insurance.csv")
 
 # Print the type of the 'data' object to confirm it's a pandas DataFrame
 print(type(data))  # <class 'pandas.core.frame.DataFrame'> indicates that data is a DataFrame
